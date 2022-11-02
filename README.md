@@ -3,7 +3,7 @@
 
 Author: Ismail Alamir
 ### Setup
-## [Pull requests](https://github.com/IsmailAlamir/)
+## [Pull requests](https://github.com/IsmailAlamir/web-scraper/pull/1)
 
 How to initialize/run your application
 ```
